@@ -1,5 +1,6 @@
 Yapmış olduğum Valf fonksiyon bloğu hidrolik ve pnömatik sistemler için uygundur.
-![Uploading 2024-08-21_13h59_21.png…]()
+
+![2024-08-21_13h59_21](https://github.com/user-attachments/assets/6daee4be-1543-4cde-b98f-6b5d54770d37)
 
 
 Input
