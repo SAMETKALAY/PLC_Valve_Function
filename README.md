@@ -4,6 +4,7 @@ Yapmış olduğum Valf fonksiyon bloğu hidrolik ve pnömatik sistemler için uy
 
 
 Input
+
 Mod_Man : Sitemin Manuel Moda Alında True Yapılır
 Mod_Auto: Sitemin Otomatik Moda Alında True Yapılır
 Alarme_Clear : Blokta oluşan alarmları silmek için Plus verilmelidir.
